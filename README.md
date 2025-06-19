@@ -1,5 +1,5 @@
 # ai-video-editor-chatbot
-An AI Chatbot which can edit videos on commands
+An AI Chatbot which can edit videos on commands,Building a command-based intelligent assistant that performs video editing tasks using AI. Planned stack includes Python, OpenCV, and NLP-based intent parsing.
 
 # AI Video Editor Chatbot 🎬🤖
 
